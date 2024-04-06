@@ -15,10 +15,21 @@
 ![모션들](https://github.com/chahanyeong/Maplestory-mycharacter_Tracking/assets/152364900/b1dd59cd-bb64-49a9-a751-8d9e4e5a7053)
 
 이런 여러가지 모션들을 캡처한 후 Roboflow를 사용해 데이터를 구축하고 라벨링을 진행하였습니다.
-![데이터셋 구축 사진](https://github.com/chahanyeong/Maplestory-mycharacter_Tracking/assets/152364900/6b2a1c38-d514-4ca6-b740-741f218fe6fd)
+![데이터 구축 사진](https://github.com/chahanyeong/Maplestory-mycharacter_Tracking/assets/152364900/aa922266-806b-4772-8965-4805465598ea)
 
 RoboFlow에서 구축한 데이터는 아래의 코드를 사용하여 Colab 환경에 다운로드 할 수 있습니다.
 
+```bash
+!mkdir {HOME}/datasets
+%cd {HOME}/datasets
+
+!pip install roboflow --quiet
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="YOUR_API_KEY")
+project = rf.workspace("roboflow-jvuqo").project("maplestory-1v")
+dataset = project.version(1).download("yolov8")
+``` 
 
 특징
 
