@@ -5,6 +5,9 @@
 <img src="![ezgif com-video-to-gif-converter](https://github.com/chahanyeong/Maplestory-mycharacter_Tracking/assets/152364900/6308c91f-2d33-4214-8ddf-6cd26339dc74)">
 </p>
 
+![ezgif com-video-to-gif-converter](https://github.com/chahanyeong/Maplestory-mycharacter_Tracking/assets/152364900/8e39628f-9745-4321-a6c7-514ac1396604)
+
+
 # 개발순서
 - Roboflow를 사용한 Create Data, labeling(Bounding box)
 - Colab에서 API를 사용해 Roboflow Data Download
