@@ -1,12 +1,7 @@
 # 개발내용
 보스레이드하는 나의 캐릭터를 추적하는 알고리즘 개발
 
-<p align="center">
-<img src="![ezgif com-video-to-gif-converter](https://github.com/chahanyeong/Maplestory-mycharacter_Tracking/assets/152364900/6308c91f-2d33-4214-8ddf-6cd26339dc74)">
-</p>
-
-![ezgif com-video-to-gif-converter](https://github.com/chahanyeong/Maplestory-mycharacter_Tracking/assets/152364900/8e39628f-9745-4321-a6c7-514ac1396604)
-
+https://github.com/chahanyeong/Maplestory-mycharacter_Tracking/assets/152364900/8929d1bc-eb34-48ae-9af0-8e60f441aa20
 
 # 개발순서
 - Roboflow를 사용한 Create Data, labeling(Bounding box)
