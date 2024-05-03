@@ -45,3 +45,5 @@ YOLOv8모델의 Fine-Tuning 결과와 실제 detection 사진입니다. validati
 
 # Tracking
 Tracking 알고리즘은 BOTSORT를 사용하였고 객체가 사라졌다 나타날 때 같은 ID로 추적하도록 유도하는 RE-ID 모델도 사용하였습니다.
+![image](https://github.com/chahanyeong/Maplestory-mycharacter_Tracking/assets/152364900/fedba7f0-93f4-4af8-8061-664375a81e7c)
+
